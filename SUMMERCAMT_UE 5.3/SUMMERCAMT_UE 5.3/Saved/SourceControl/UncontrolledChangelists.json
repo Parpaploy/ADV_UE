@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC_2-206/Downloads/KM_UE 5.2/KM_UE 5.2/Content/Asset1_CreateScene/BG_Hills.uasset",
+				"C:/Users/PC_2-206/Downloads/KM_UE 5.2/KM_UE 5.2/Content/Asset1_CreateScene/BG_city-ruins.uasset",
+				"C:/Users/PC_2-206/Downloads/KM_UE 5.2/KM_UE 5.2/Content/Asset1_CreateScene/BG_spooky.uasset",
+				"C:/Users/PC_2-206/Downloads/KM_UE 5.2/KM_UE 5.2/Content/Asset1_CreateScene/Spritesheet_Ground.uasset",
+				"C:/Users/PC_2-206/Downloads/KM_UE 5.2/KM_UE 5.2/Content/Asset1_CreateScene/Cloud.uasset",
+				"C:/Users/PC_2-206/Downloads/KM_UE 5.2/KM_UE 5.2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap",
+				"C:/Users/PC_2-206/Downloads/KM_UE 5.2/KM_UE 5.2/Content/Asset2_Mario/SMB3_Objects.uasset",
+				"C:/Users/PC_2-206/Downloads/SUMMERCAMT_UE 5.2/SUMMERCAMT_UE 5.3/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap",
+				"C:/Users/PC_2-206/Downloads/SUMMERCAMT_UE 5.2/SUMMERCAMT_UE 5.3/Content/MyLevels/MyLevel1.umap",
+				"C:/Users/PC_2-206/Downloads/SUMMERCAMT_UE 5.2/SUMMERCAMT_UE 5.2/Content/MyLevels/MyLevel1.umap",
+				"C:/Users/John-LAPTOP/Documents/Unreal Projects/KM_UE 5.2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap"
+			]
+		}
+	]
+}

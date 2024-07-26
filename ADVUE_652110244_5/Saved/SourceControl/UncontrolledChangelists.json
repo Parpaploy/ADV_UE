@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/652110244/ADVUE_652110244_5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/652110244/ADVUE_652110244_5/Content/Stylized_Egypt/Maps/Stylized_Egypt_Demo.umap",
+				"D:/652110244/ADVUE_652110244_5/Content/NewLevelSequence.uasset",
+				"D:/652110244/ADVUE_652110244_5/Content/Cutscene/NewLevelSequence.uasset",
+				"D:/652110244/ADVUE_652110244_5/Content/Cutscene/MyCutscene.uasset",
+				"D:/652110244/ADVUE_652110244_5/Content/Cutscene/MyCutscene2.uasset",
+				"D:/652110244/ADVUE_652110244_5/Content/Cutscene/MyObject.uasset",
+				"D:/652110244/ADVUE_652110244_5/Content/Cutscene/MyObject2.uasset"
+			]
+		}
+	]
+}

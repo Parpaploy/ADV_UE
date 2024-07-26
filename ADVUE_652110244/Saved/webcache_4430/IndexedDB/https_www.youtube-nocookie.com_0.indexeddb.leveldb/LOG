@@ -1,0 +1,6 @@
+2024/07/26-13:43:09.423 1a84 Creating DB D:/652110244/ADVUE_652110244/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/07/26-13:43:10.123 1a84 Reusing MANIFEST D:/652110244/ADVUE_652110244/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/26-13:45:55.727 1a84 Level-0 table #5: started
+2024/07/26-13:45:55.776 1a84 Level-0 table #5: 1167 bytes OK
+2024/07/26-13:45:55.802 1a84 Delete type=0 #3
+2024/07/26-13:45:55.802 1a84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
